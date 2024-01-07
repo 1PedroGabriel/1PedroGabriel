@@ -1,11 +1,11 @@
-### Hi there, i'm Pedro Gabriel 
+## Hi there, i'm Pedro Gabriel 
 - Computer Engineering student at State University of Maranhão - UEMA.
 - Interested on programming, machine learning and aplied mathematics.
 - Member of Signal Acquisition and Processing Laboratory - LAPS.
-### Languages and Tools
+# Languages and Tools
 ---
 
-# To Programming:  
+### To Programming:  
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -13,7 +13,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 
 
-# To Data Science:  
+### To Data Science:  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
