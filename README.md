@@ -4,4 +4,4 @@
 - Member of Signal Acquisition and Processing Laboratory - LAPS.
 ### Languages and Tools
 ---
-<i class="devicon-python-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
