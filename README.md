@@ -20,6 +20,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Github Stats:
+# Github Stats
 ![1PedroGabriel Status](https://github-readme-stats.vercel.app/api?username=1PedroGabriel&show_icons=true&theme=shadow_red)
 
