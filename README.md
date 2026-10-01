@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Pedro%20Gabriel&fontSize=42&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Pedrokas&fontSize=42&animation=twinkling" />
 </p>
 
-<h1 align="center">Olá, eu sou o Pedro Gabriel 👋</h1>
+<h1 align="center">Olá, eu sou o Pedrokas 👋</h1>
 
 <p align="center">
   <a href="https://github.com/1PedroGabriel">
@@ -62,20 +62,6 @@ Meu foco está em desenvolvimento web, APIs, lógica de negócios e soluções b
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🌟 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Stack |
-|--------|-----------|-------|
-| [Projeto 1](https://github.com/1PedroGabriel/projeto1) | Aplicação focada em resolver um problema real com interface moderna e funcional. | React, Node.js, MongoDB |
-| [Projeto 2](https://github.com/1PedroGabriel/projeto2) | Sistema com foco em organização, lógica e boa experiência de uso. | TypeScript, Express, PostgreSQL |
-| [Projeto 3](https://github.com/1PedroGabriel/projeto3) | Projeto pessoal para praticar arquitetura, UX e desenvolvimento full stack. | JavaScript, API REST, MySQL |
-
-</div>
 
 ---
 
