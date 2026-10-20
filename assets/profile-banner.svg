@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Gabriel — Software, dados e engenharia</title>
+  <desc id="desc">Banner azul profundo com detalhes em ciano e violeta, circuitos e uma visualização de sinais. Engenharia de Computação na UEMA.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1280" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#080F20"/><stop offset="1" stop-color="#131A36"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset=".55" stop-color="#818CF8"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity=".07"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="420" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="420" fill="url(#bg)"/>
+    <rect width="1280" height="420" fill="url(#grid)"/>
+    <ellipse cx="1020" cy="180" rx="360" ry="300" fill="url(#glow)"/>
+    <path d="M0 3H1280" stroke="url(#accent)" stroke-width="6"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <rect x="64" y="50" width="324" height="30" rx="15" fill="#12283A" stroke="#22D3EE" stroke-opacity=".3"/>
+      <circle cx="82" cy="65" r="4" fill="#22D3EE"/>
+      <text x="97" y="70" fill="#A5F3FC" font-size="12" font-weight="600" letter-spacing="2">SOFTWARE · DADOS · ENGENHARIA</text>
+      <text x="59" y="183" fill="#F1F5F9" font-size="88" font-weight="750" letter-spacing="-4">Pedro</text>
+      <text x="59" y="271" fill="url(#accent)" font-size="88" font-weight="750" letter-spacing="-4">Gabriel<tspan fill="#22D3EE">.</tspan></text>
+      <text x="64" y="319" fill="#CBD5E1" font-size="21">Software e matemática aplicada.</text>
+      <path d="M64 350H104" stroke="#22D3EE" stroke-width="2"/>
+      <text x="119" y="356" fill="#94A3B8" font-size="16">Engenharia de Computação · UEMA</text>
+    </g>
+    <g stroke="#64748B" stroke-opacity=".3">
+      <circle cx="1000" cy="207" r="144"/><circle cx="1000" cy="207" r="112"/>
+      <path d="M1000 38V376M830 207H1170" stroke-dasharray="3 9"/>
+      <path d="M697 109H776L819 152H857M1111 297H1178L1215 334H1280M734 320H803L838 285"/>
+    </g>
+    <circle cx="1000" cy="207" r="144" stroke="url(#accent)" stroke-width="2" stroke-dasharray="108 797" transform="rotate(-80 1000 207)"/>
+    <circle cx="1000" cy="207" r="112" stroke="#22D3EE" stroke-opacity=".7" stroke-dasharray="44 660" transform="rotate(45 1000 207)"/>
+    <g fill="#22D3EE"><circle cx="856" cy="207" r="5"/><circle cx="1000" cy="63" r="5"/><circle cx="1118" cy="289" r="5"/></g>
+    <circle cx="776" cy="109" r="4" fill="#A78BFA"/>
+    <rect x="826" y="142" width="348" height="132" rx="16" fill="#0A1428" stroke="#64748B" stroke-opacity=".45"/>
+    <path d="M847 208H1153" stroke="#334155" stroke-dasharray="3 5"/>
+    <path d="M848 208H875C889 208 891 174 905 174S922 241 937 241S953 174 968 174S984 241 999 241S1016 174 1031 174S1047 241 1062 241S1078 208 1093 208H1152" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <g font-family="Consolas, monospace" font-size="11" letter-spacing="2" fill="#94A3B8"><text x="847" y="165">SINAL / TELEMETRIA</text><text x="847" y="258">x(t)</text></g>
+    <rect x="1096" y="82" width="106" height="39" rx="9" fill="#172038" stroke="#A78BFA" stroke-opacity=".4"/>
+    <text x="1117" y="108" fill="#C4B5FD" font-family="Consolas, monospace" font-size="23" font-weight="700">&lt;PG/&gt;</text>
+    <text x="882" y="379" fill="#94A3B8" font-family="Consolas, monospace" font-size="15" letter-spacing="1">x(t) = A sin(ωt + φ)</text>
+    <path d="M0 419H1280" stroke="url(#accent)" stroke-opacity=".25" stroke-width="2"/>
+  </g>
+</svg>
